@@ -1,0 +1,5 @@
+Peças do slide Processo (ordem = nome).
+01-esboco.png: esboço digital da equipe (FigJam, Section 1).
+02 a 05: iterações da equipe, copiadas de _archive/Iterações monograma (Group 2).
+05-ponta-separada = 06 - vão maior e braço do K/00-como-estava.svg.
+Quadros 06 (final sem estrela) e 07 (final) são o monograma desenhado direto no index.html.
